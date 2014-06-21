@@ -1,0 +1,16 @@
+width,length,type,region,model,height-min,height-max,stories,shape,library,tags
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse1.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse2.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse3.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse4.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse5.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse6.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse7.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse8.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse9.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse10.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse11.obj,,,2,SQ,W2XP,Black
+10.72,13.60,residential,US;AZ,objects/houses/US/AZ/RES_10.72x13.60_azhouse12.obj,,,2,SQ,W2XP,Black
+15.38,19.74,residential,US;AZ,objects/houses/US/AZ/RES_15.38x19.74_azhouse13.obj,,,2,SQ,W2XP,Black
+16.80,19.30,residential,US;AZ,objects/houses/US/AZ/RES_16.80x19.30_azhouse14.obj,,,2,SQ,W2XP,Black
+15.35,17.01,residential,US;AZ,objects/houses/US/AZ/RES_15.35x17.01_azhouse15.obj,,,2,SQ,W2XP,Black
