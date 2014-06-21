@@ -1389,6 +1389,10 @@ EXPORT objects/houses/EU/GB/RES_06x10_2_UK_1.obj houses/EU/GB/RES_06x10_2_UK_1.o
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_2.obj houses/EU/GB/RES_06x10_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_3.obj houses/EU/GB/RES_06x10_2_UK_3.obj
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_4.obj houses/EU/GB/RES_06x10_2_UK_4.obj
+EXPORT objects/houses/EU/GB/RES_07x08_2_UK_1.obj houses/EU/GB/RES_07x08_2_UK_1.obj
+EXPORT objects/houses/EU/GB/RES_07x08_2_UK_2.obj houses/EU/GB/RES_07x08_2_UK_2.obj
+EXPORT objects/houses/EU/GB/RES_07x10_2_UK_1.obj houses/EU/GB/RES_07x10_2_UK_1.obj
+EXPORT objects/houses/EU/GB/RES_07x10_2_UK_2.obj houses/EU/GB/RES_07x10_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_5x7.75_UK1.obj houses/EU/GB/RES_5x7.75_UK1.obj
 EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK1.obj houses/EU/GB/RES_6.60x7.15_UK1.obj
 EXPORT objects/houses/EU/GB/RES_6.60x7.15_UK2.obj houses/EU/GB/RES_6.60x7.15_UK2.obj
