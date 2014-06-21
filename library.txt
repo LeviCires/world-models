@@ -1377,6 +1377,9 @@ EXPORT objects/houses/EU/FR/BlackRoof_RES_10.4x11.0_FR.obj houses/EU/FR/BlackRoo
 EXPORT objects/houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj houses/EU/FR/BlackRoof_RES_12.34x9.50_FR.obj
 EXPORT objects/houses/EU/FR/RES_10.4x11.0_FR.obj houses/EU/FR/RES_10.4x11.0_FR.obj
 EXPORT objects/houses/EU/FR/RES_12.34x9.50_FR.obj houses/EU/FR/RES_12.34x9.50_FR.obj
+EXPORT objects/houses/EU/GB/RES_05x11_2_UK_1.obj houses/EU/GB/RES_05x11_2_UK_1.obj
+EXPORT objects/houses/EU/GB/RES_05x13_2_UK_1.obj houses/EU/GB/RES_05x13_2_UK_1.obj
+EXPORT objects/houses/EU/GB/RES_05x13_2_UK_2.obj houses/EU/GB/RES_05x13_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_06x08_2_UK_1.obj houses/EU/GB/RES_06x08_2_UK_1.obj
 EXPORT objects/houses/EU/GB/RES_06x08_2_UK_2.obj houses/EU/GB/RES_06x08_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_06x08_2_UK_3.obj houses/EU/GB/RES_06x08_2_UK_3.obj
@@ -1389,6 +1392,8 @@ EXPORT objects/houses/EU/GB/RES_06x10_2_UK_1.obj houses/EU/GB/RES_06x10_2_UK_1.o
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_2.obj houses/EU/GB/RES_06x10_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_3.obj houses/EU/GB/RES_06x10_2_UK_3.obj
 EXPORT objects/houses/EU/GB/RES_06x10_2_UK_4.obj houses/EU/GB/RES_06x10_2_UK_4.obj
+EXPORT objects/houses/EU/GB/RES_06x11_2_UK_1.obj houses/EU/GB/RES_06x11_2_UK_1.obj
+EXPORT objects/houses/EU/GB/RES_06x11_2_UK_2.obj houses/EU/GB/RES_06x11_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_07x08_2_UK_1.obj houses/EU/GB/RES_07x08_2_UK_1.obj
 EXPORT objects/houses/EU/GB/RES_07x08_2_UK_2.obj houses/EU/GB/RES_07x08_2_UK_2.obj
 EXPORT objects/houses/EU/GB/RES_07x10_2_UK_1.obj houses/EU/GB/RES_07x10_2_UK_1.obj
