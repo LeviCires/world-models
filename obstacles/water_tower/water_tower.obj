@@ -255,12 +255,12 @@ IDX10	210	211	212	213	214	215	216	217	218	219
 IDX	220
 IDX	221
 
-	ATTR_LOD	0 15000
+	ATTR_LOD	0 10000
 	ATTR_diffuse_rgb	 0.800  0.800  0.800
 	ATTR_shade_smooth
 	ATTR_emission_rgb	 0.000  0.000  0.000
 	ATTR_shiny_rat	 0.000
-	ATTR_no_hard
+	ATTR_hard
 	ATTR_no_cull
 	ATTR_depth
 	ATTR_blend
