@@ -13,3 +13,4 @@ width,length,type,region,model,height-min,height-max,stories,shape,library
 49.8,23.8,church,CE,R2_Library/budovy/kostely/kostel-50m.obj,,,,SQ,R2
 50.40,27.71,church,,objects/churches/IE/CHURCH_50.40x27.71_IE.obj,,,,SQ,R2
 57.37,30.36,church,,objects/churches/IE/CHURCH_57.37x30.36_IE.obj,,,,SQ,R2
+17.00,15.00,chapel,,objects/churches/chapel.obj,,,,,SQ,R2

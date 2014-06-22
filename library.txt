@@ -1288,6 +1288,7 @@ EXPORT objects/cars/cars_vw_golf.obj cars/cars_vw_golf.obj
 EXPORT objects/cars/cars_vw_polo.obj cars/cars_vw_polo.obj
 EXPORT objects/churches/IE/CHURCH_50.40x27.71_IE.obj churches/IE/CHURCH_50.40x27.71_IE.obj
 EXPORT objects/churches/IE/CHURCH_57.37x30.36_IE.obj churches/IE/CHURCH_57.37x30.36_IE.obj
+EXPORT objects/churches/chapel.obj churches/chapel.obj
 EXPORT objects/churches/church.obj churches/church.obj
 EXPORT objects/commercial/BurgerKing_restaurant_28.77x18.19.obj commercial/BurgerKing_restaurant_28.77x18.19.obj
 EXPORT objects/commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj commercial/EU/CH/COM_15.00x10.00x15.00_CH.obj
@@ -1773,6 +1774,7 @@ EXPORT objects/roads/30Limit.obj roads/30Limit.obj
 EXPORT objects/roads/50Limit.obj roads/50Limit.obj
 EXPORT objects/roads/Stop.obj roads/Stop.obj
 EXPORT objects/roads/Yield.obj roads/Yield.obj
+EXPORT objects/roads/bus_stop.obj roads/bus_stop.obj
 EXPORT objects/supermarkets/COOP_20.00x10.00_1.obj supermarkets/COOP_20.00x10.00_1.obj
 EXPORT objects/supermarkets/LIDL_65x32.obj supermarkets/LIDL_65x32.obj
 EXPORT objects/supermarkets/RET_30.00x24.00_NETTO.obj supermarkets/RET_30.00x24.00_NETTO.obj
@@ -1781,6 +1783,7 @@ EXPORT objects/supermarkets/RET_37.10x33.64_NETTO.obj supermarkets/RET_37.10x33.
 EXPORT objects/supermarkets/RET_37.65x43.50_Carrefour.obj supermarkets/RET_37.65x43.50_Carrefour.obj
 EXPORT objects/supermarkets/RET_64.00x32.00_LIDL_PL.obj supermarkets/RET_64.00x32.00_LIDL_PL.obj
 EXPORT objects/supermarkets/RET_Biedronka_25.3x38.5_PL.obj supermarkets/RET_Biedronka_25.3x38.5_PL.obj
+EXPORT objects/supermarkets/rewe.obj supermarkets/rewe.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_13.obj uwespeed/aegaen/R(frame)_16.8x21.0_13.obj
 EXPORT objects/uwespeed/aegaen/R(frame)_16.8x21.0_14.obj uwespeed/aegaen/R(frame)_16.8x21.0_14.obj
 EXPORT objects/uwespeed/aegaen/R_16.8x21.0_1.obj uwespeed/aegaen/R_16.8x21.0_1.obj
