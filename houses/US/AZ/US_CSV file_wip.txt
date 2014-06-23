@@ -31,6 +31,19 @@ width,length,type,region,model,height-min,height-max,stories,shape,library,tags
 9.50,15.00,residential,US;AZ;azhouse28,objects/houses/US/AZ/RES_9.50x15.00_azhouse28.obj
 9.50,15.00,residential,US;AZ;azhouse29,objects/houses/US/AZ/RES_9.50x15.00_azhouse29.obj
 9.50,15.00,residential,US;AZ;azhouse30,objects/houses/US/AZ/RES_9.50x15.00_azhouse30.obj
+14.60,16.66,residential,US;AZ;azhouse31,objects/houses/US/AZ/RES_14.60x16.66_azhouse31.obj
+14.60,16.66,residential,US;AZ;azhouse32,objects/houses/US/AZ/RES_14.60x16.66_azhouse32.obj
+14.60,16.66,residential,US;AZ;azhouse33,objects/houses/US/AZ/RES_14.60x16.66_azhouse33.obj
+14.60,16.66,residential,US;AZ;azhouse34,objects/houses/US/AZ/RES_14.60x16.66_azhouse34.obj
+14.60,16.66,residential,US;AZ;azhouse35,objects/houses/US/AZ/RES_14.60x16.66_azhouse35.obj
+14.60,16.66,residential,US;AZ;azhouse36,objects/houses/US/AZ/RES_14.60x16.66_azhouse36.obj
+14.60,7.44,residential,US;AZ;azhouse37,objects/houses/US/AZ/RES_14.60x7.44_azhouse37.obj
+14.60,7.44,residential,US;AZ;azhouse38,objects/houses/US/AZ/RES_14.60x7.44_azhouse38.obj
+14.60,7.44,residential,US;AZ;azhouse39,objects/houses/US/AZ/RES_14.60x7.44_azhouse39.obj
+14.60,7.44,residential,US;AZ;azhouse40,objects/houses/US/AZ/RES_14.60x7.44_azhouse40.obj
+14.60,7.44,residential,US;AZ;azhouse41,objects/houses/US/AZ/RES_14.60x7.44_azhouse41.obj
+14.60,7.44,residential,US;AZ;azhouse42,objects/houses/US/AZ/RES_14.60x7.44_azhouse42.obj
+
 
 world-models/houses/US/CA
 
@@ -52,5 +65,18 @@ world-models/houses/US/CA
 9.50,15.00,residential,US;CA;cahouse16,objects/houses/US/CA/RES_9.50x15.00_cahouse16.obj
 9.50,15.00,residential,US;CA;cahouse17,objects/houses/US/CA/RES_9.50x15.00_cahouse17.obj
 9.50,15.00,residential,US;CA;cahouse18,objects/houses/US/CA/RES_9.50x15.00_cahouse18.obj
-
+12.93,19.51,residential,US:CA;cahouse19,objects/houses/US/CA/RES_12.93x19.51_cahouse19.obj
+12.93,19.51,residential,US:CA;cahouse20,objects/houses/US/CA/RES_12.93x19.51_cahouse20.obj
+12.93,19.51,residential,US:CA;cahouse21,objects/houses/US/CA/RES_12.93x19.51_cahouse21.obj
+12.93,19.51,residential,US:CA;cahouse22,objects/houses/US/CA/RES_12.93x19.51_cahouse22.obj
+12.93,19.51,residential,US:CA;cahouse23,objects/houses/US/CA/RES_12.93x19.51_cahouse23.obj
+12.93,19.51,residential,US:CA;cahouse24,objects/houses/US/CA/RES_12.93x19.51_cahouse24.obj
+12.93,19.51,residential,US:CA;cahouse25,objects/houses/US/CA/RES_12.93x19.51_cahouse25.obj
+12.93,19.51,residential,US:CA;cahouse26,objects/houses/US/CA/RES_12.93x19.51_cahouse26.obj
+12.93,19.51,residential,US:CA;cahouse27,objects/houses/US/CA/RES_12.93x19.51_cahouse27.obj
+12.93,19.51,residential,US:CA;cahouse28,objects/houses/US/CA/RES_12.93x19.51_cahouse28.obj
+12.93,19.51,residential,US:CA;cahouse29,objects/houses/US/CA/RES_12.93x19.51_cahouse29.obj
+12.93,19.51,residential,US:CA;cahouse30,objects/houses/US/CA/RES_12.93x19.51_cahouse30.obj
+12.93,19.51,residential,US:CA;cahouse31,objects/houses/US/CA/RES_12.93x19.51_cahouse31.obj
+12.93,19.51,residential,US:CA;cahouse32,objects/houses/US/CA/RES_12.93x19.51_cahouse32.obj
 
